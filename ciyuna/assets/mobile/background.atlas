@@ -1,0 +1,10 @@
+background.png
+size:4096,4096
+format:Alpha
+scale:0.33333
+back
+bounds:1,1749,2545,1746
+lamp R
+bounds:2548,1998,733,1497
+lamp_L
+bounds:1,1,955,1746
